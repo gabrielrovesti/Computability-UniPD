@@ -1,0 +1,7 @@
+For the oral part of exam will ask questions about the theoretical part, more specifically on definitions and their proof.
+He can give you +3 points on the exam and you can take if you want in case (remember the oral is not mandatory).
+Usually, at least in the bachelor with the same professor, was to get marks >=25/26 (and of course to have the written exam sufficient).
+
+Some questions asked:
+- well founded induction
+- projection theorem
