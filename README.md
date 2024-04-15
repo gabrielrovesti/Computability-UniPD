@@ -1,2 +1,2 @@
 # Computability-UniPD
-Computability course of MSc in Computer Science, First Semester, Padova
+Computability course of M.Sc. in Computer Science, First Semester, Padova, held by prof. Paolo Baldan, 2023-2024
